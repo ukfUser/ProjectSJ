@@ -7,6 +7,7 @@
 </head>
 <body>
 <h1>Vitajte na mojej prvej stránke v PHP!</h1>
+<p>Vitajte na mojej prvej stránke v PHP!</p>
 <?php
 echo "<h1>Henlo world</h1>";
 echo "Dnes je " . date("d.m.Y") . "<br>";
